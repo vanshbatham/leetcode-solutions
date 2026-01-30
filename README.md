@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vanshbatham/leetcode-solutions/tree/master/0078-subsets) |
+| [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshbatham/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
