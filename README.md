@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
