@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vanshbatham/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshbatham/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vanshbatham/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
