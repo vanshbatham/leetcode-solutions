@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vanshbatham/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshbatham/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Monotonic Stack
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vanshbatham/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
@@ -116,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
