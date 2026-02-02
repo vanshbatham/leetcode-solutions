@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshbatham/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/vanshbatham/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
