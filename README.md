@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vanshbatham/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/vanshbatham/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## String
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/vanshbatham/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/vanshbatham/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/vanshbatham/leetcode-solutions/tree/master/1934-confirmation-rate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vanshbatham/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
