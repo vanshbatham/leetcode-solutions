@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/vanshbatham/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
