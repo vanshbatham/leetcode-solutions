@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/vanshbatham/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/vanshbatham/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/vanshbatham/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
