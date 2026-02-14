@@ -1,27 +1,26 @@
 class MinStack {
-    Deque<Integer> deque = new ArrayDeque<>();
+    Stack<Integer> stack = new Stack<>();
 
     public MinStack() {
         
     }
     
     public void push(int val) {
-        deque.push(val);
-        
+        stack.push(val);
     }
     
     public void pop() {
-        deque.pollFirst();
+        stack.pop();
     }
     
     public int top() {
-        return deque.peek();
+        return stack.peek();
         
     }
     
     public int getMin() {
         int min = Integer.MAX_VALUE;
-        for (int num : deque) {
+        for (int num : stack) {
             if (num < min) {
                 min = num;
             }
