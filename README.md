@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/vanshbatham/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshbatham/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Backtracking
 |  |
 | ------- |
