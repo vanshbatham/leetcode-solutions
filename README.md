@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vanshbatham/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshbatham/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/vanshbatham/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshbatham/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vanshbatham/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vanshbatham/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Counting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vanshbatham/leetcode-solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/vanshbatham/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
