@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/vanshbatham/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshbatham/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vanshbatham/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
