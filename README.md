@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vanshbatham/leetcode-solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/vanshbatham/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vanshbatham/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
