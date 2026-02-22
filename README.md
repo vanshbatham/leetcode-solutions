@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/vanshbatham/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshbatham/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/vanshbatham/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshbatham/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshbatham/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1207-unique-number-of-occurrences](https://github.com/vanshbatham/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Monotonic Stack
 |  |
