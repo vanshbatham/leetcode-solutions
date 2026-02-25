@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshbatham/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vanshbatham/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vanshbatham/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vanshbatham/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
