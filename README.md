@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vanshbatham/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/vanshbatham/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshbatham/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/vanshbatham/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vanshbatham/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1512-number-of-good-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0981-time-based-key-value-store](https://github.com/vanshbatham/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/vanshbatham/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Monotonic Stack
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/vanshbatham/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/vanshbatham/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/vanshbatham/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
