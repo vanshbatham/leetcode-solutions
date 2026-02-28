@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshbatham/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vanshbatham/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshbatham/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vanshbatham/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshbatham/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshbatham/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/vanshbatham/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshbatham/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshbatham/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
